@@ -16,4 +16,6 @@
 </h4>
 
 <h3>Foi criado um algoritmo em Java para resolver esse problema!! <h3>
+    <h4>Resultado 👇👇 </h4>
+     <h4>0.5505024820312555 % de chance</h4>
 <h3>#O algoritmo está dinâmico, podendo calcular outros problemas#</h3>
